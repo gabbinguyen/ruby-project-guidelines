@@ -1,0 +1,40 @@
+{ "businesses"=>
+
+[{"id"=>"-JqrUI1y8jaUQma7t2ShUA", "alias"=>"revelry-kitchen-bar-austin", "name"=>"Revelry Kitchen + Bar", "image_url"=>"https://s3-media2.fl.yelpcdn.com/bphoto/kqTjTNVtLxe3ftAJ0wxPOA/o.jpg", "is_closed"=>false, 
+    "url"=>"https://www.yelp.com/biz/revelry-kitchen-bar-austin?adjust_creative=Pq3zaCPUkSdbHxi7l5c9tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Pq3zaCPUkSdbHxi7l5c9tw", "review_count"=>217, "categories"=>[{"alias"=>"tradamerican", 
+    "title"=>"American (Traditional)"}, {"alias"=>"cocktailbars", "title"=>"Cocktail Bars"}, {"alias"=>"sportsbars", "title"=>"Sports Bars"}], "rating"=>4.0, "coordinates"=>{"latitude"=>30.2637173006037, "longitude"=>-97.7277220894538}, 
+    "transactions"=>["pickup", "delivery"], "price"=>"$$", 
+    "location"=>
+    {"address1"=>"1410 E 6th St", "address2"=>nil, "address3"=>"", "city"=>"Austin", "zip_code"=>"78702", "country"=>"US", "state"=>"TX", 
+    "display_address"=>["1410 E 6th St", "Austin, TX 78702"]}
+    , "phone"=>"+15123225223", "display_phone"=>"(512) 322-5223", "distance"=>1340.1199408621787}, 
+
+
+{"id"=>"AcFt364BrHyMu3VrSCKMOw", "alias"=>"salty-sow-austin", "name"=>"Salty Sow", "image_url"=>"https://s3-media3.fl.yelpcdn.com/bphoto/MyGvx4pgJiqDxZ9YnG56rQ/o.jpg", "is_closed"=>false, 
+    "url"=>"https://www.yelp.com/biz/salty-sow-austin?adjust_creative=Pq3zaCPUkSdbHxi7l5c9tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Pq3zaCPUkSdbHxi7l5c9tw", "review_count"=>2723, "categories"=>[{"alias"=>"tradamerican", "title"=>"American (Traditional)"}, 
+    {"alias"=>"gastropubs", "title"=>"Gastropubs"}], "rating"=>4.5, "coordinates"=>{"latitude"=>30.2836497259461, "longitude"=>-97.7213180065155}, 
+    "transactions"=>["delivery"], "price"=>"$$", "location"=>{"address1"=>"1917 Manor Rd", "address2"=>"", "address3"=>"", "city"=>"Austin", "zip_code"=>"78722", "country"=>"US", "state"=>"TX", 
+    "display_address"=>["1917 Manor Rd", "Austin, TX 78722"]}, "phone"=>"+15123912337", "display_phone"=>"(512) 391-2337", "distance"=>2290.700130196351}, 
+
+
+{"id"=>"o8cjmgX0RB6BQxjtnwevug", "alias"=>"gourmands-neighborhood-pub-austin-2", "name"=>"Gourmands Neighborhood Pub", "image_url"=>"https://s3-media3.fl.yelpcdn.com/bphoto/sEz3RjPOK27HPsL3_o6b3A/o.jpg", "is_closed"=>false, 
+    "url"=>"https://www.yelp.com/biz/gourmands-neighborhood-pub-austin-2?adjust_creative=Pq3zaCPUkSdbHxi7l5c9tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Pq3zaCPUkSdbHxi7l5c9tw", "review_count"=>537, "categories"=>[{"alias"=>"sandwiches", 
+    "title"=>"Sandwiches"}, {"alias"=>"pubs", "title"=>"Pubs"}, {"alias"=>"salad", "title"=>"Salad"}], "rating"=>4.0, "coordinates"=>{"latitude"=>30.26265, "longitude"=>-97.71539}, 
+    "transactions"=>["delivery"], "price"=>"$$", "location"=>{"address1"=>"2316 Webberville Rd", "address2"=>nil, "address3"=>"", "city"=>"Austin", "zip_code"=>"78702", "country"=>"US", "state"=>"TX", 
+    "display_address"=>["2316 Webberville Rd", "Austin, TX 78702"]}, "phone"=>"+15126102031", "display_phone"=>"(512) 610-2031", "distance"=>223.50392870818854}, 
+
+
+{"id"=>"F6b_O4-wtd3956YOvAoerg", "alias"=>"hi-hat-public-house-austin", "name"=>"Hi Hat Public House", "image_url"=>"https://s3-media2.fl.yelpcdn.com/bphoto/bFCiYJ9wI_Gr3WQKqOEmIg/o.jpg", "is_closed"=>false, 
+    "url"=>"https://www.yelp.com/biz/hi-hat-public-house-austin?adjust_creative=Pq3zaCPUkSdbHxi7l5c9tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Pq3zaCPUkSdbHxi7l5c9tw", "review_count"=>244, "categories"=>[{"alias"=>"newamerican", "title"=>"American (New)"}, 
+    {"alias"=>"bars", "title"=>"Bars"}], "rating"=>4.5, "coordinates"=>{"latitude"=>30.26023, "longitude"=>-97.71893}, "transactions"=>["delivery"], "price"=>"$$", "location"=>{"address1"=>"2121 E 6th St", "address2"=>"", "address3"=>"", "city"=>"Austin", "zip_code"=>"78702", "country"=>"US", "state"=>"TX", 
+    "display_address"=>["2121 E 6th St", "Austin, TX 78702"]}, "phone"=>"+15124788700", "display_phone"=>"(512) 478-8700", "distance"=>668.9726904794286}, 
+
+
+{"id"=>"JW3SkLOUfGhcVQGosoozUA", "alias"=>"launderette-austin", "name"=>"Launderette", "image_url"=>"https://s3-media2.fl.yelpcdn.com/bphoto/yVvM9ehlxU9r44WbzWXRUQ/o.jpg", "is_closed"=>false, 
+    "url"=>"https://www.yelp.com/biz/launderette-austin?adjust_creative=Pq3zaCPUkSdbHxi7l5c9tw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Pq3zaCPUkSdbHxi7l5c9tw", "review_count"=>1068, "categories"=>[{"alias"=>"newamerican", 
+    "title"=>"American (New)"}, {"alias"=>"breakfast_brunch", "title"=>"Breakfast & Brunch"}, {"alias"=>"wine_bars", "title"=>"Wine Bars"}], "rating"=>4.0, "coordinates"=>{"latitude"=>30.25193, "longitude"=>-97.72273}, 
+    "transactions"=>["pickup", "delivery"], "price"=>"$$", "location"=>{"address1"=>"2115 Holly St", "address2"=>"", "address3"=>"", "city"=>"Austin", "zip_code"=>"78702", "country"=>"US", "state"=>"TX",
+    "display_address"=>["2115 Holly St", "Austin, TX 78702"]}, "phone"=>"+15123821599", "display_phone"=>"(512) 382-1599", "distance"=>1610.6999022850916}], 
+    
+
+"total"=>395, "region"=>{"center"=>{"longitude"=>-97.71377563476562, "latitude"=>30.264105854369042}} }
